@@ -3,6 +3,7 @@ import { Link } from 'wouter';
 import { ArrowLeft, CheckCircle2, TrendingUp, Database, Code, PlayCircle } from 'lucide-react';
 import { SEO } from '@/components/seo';
 import { GlassCard } from '@/components/ui/glass-card';
+import { LogoMarquee, CountryFlags } from '@/components/logo-marquee';
 import { useLanguage } from '@/hooks/use-language';
 
 export default function Home() {
@@ -132,6 +133,12 @@ export default function Home() {
           </div>
         </div>
       </section>
+
+      {/* Logo Marquee - Platforms & Companies */}
+      <LogoMarquee />
+
+      {/* Country Flags - MENA Coverage */}
+      <CountryFlags />
 
       {/* Services Section */}
       <section id="services" className="py-24 relative">
