@@ -1,0 +1,100 @@
+@import url('https://fonts.googleapis.com/css2?family=Readex+Pro:wght@300;400;500;600;700&display=swap');
+@import "tailwindcss";
+
+@theme inline {
+  --color-background: hsl(var(--background));
+  --color-foreground: hsl(var(--foreground));
+  --color-primary: hsl(var(--primary));
+  --color-primary-foreground: hsl(var(--primary-foreground));
+  --color-muted: hsl(var(--muted));
+  --color-muted-foreground: hsl(var(--muted-foreground));
+  --color-accent: hsl(var(--accent));
+  --color-accent-foreground: hsl(var(--accent-foreground));
+  --color-teal: hsl(var(--teal));
+  --color-border: hsl(var(--border));
+  --color-card: hsl(var(--card));
+  --color-card-border: hsl(var(--card-border));
+
+  --font-sans: 'Readex Pro', sans-serif;
+}
+
+:root {
+  /* #081017 */
+  --background: 208 48% 6%;
+  /* #eef3f8 */
+  --foreground: 210 33% 95%;
+  /* #fdd82e */
+  --primary: 49 98% 59%;
+  --primary-foreground: 208 48% 6%;
+  /* #0b1622 */
+  --card: 210 51% 9%;
+  --card-border: 0 0% 100% / 0.08;
+  /* #aab8c8 */
+  --muted: 212 25% 73%;
+  --muted-foreground: 212 25% 60%;
+  /* #7b2d9f */
+  --accent: 281 56% 40%;
+  --accent-foreground: 210 33% 95%;
+  /* #7fe4de */
+  --teal: 176 68% 70%;
+  --border: 0 0% 100% / 0.1;
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+  
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    @apply bg-background text-foreground font-sans antialiased overflow-x-hidden;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-bold tracking-tight;
+  }
+}
+
+@layer utilities {
+  .bg-grid-texture {
+    background-image: 
+      linear-gradient(to right, rgba(255, 255, 255, 0.03) 1px, transparent 1px),
+      linear-gradient(to bottom, rgba(255, 255, 255, 0.03) 1px, transparent 1px);
+    background-size: 30px 30px;
+  }
+
+  .text-glow {
+    text-shadow: 0 0 20px currentColor;
+  }
+
+  .glass-panel {
+    @apply bg-[#081017]/50 backdrop-blur-xl border border-white/[0.08] shadow-2xl;
+  }
+
+  .glass-panel-hover {
+    @apply transition-all duration-300 hover:bg-[#081017]/70 hover:border-white/[0.15] hover:shadow-[0_0_30px_rgba(123,45,159,0.15)];
+  }
+
+  /* RTL Support utilities */
+  [dir="rtl"] .ml-auto { margin-left: 0; margin-right: auto; }
+  [dir="rtl"] .mr-auto { margin-right: 0; margin-left: auto; }
+  [dir="rtl"] .pl-4 { padding-left: 0; padding-right: 1rem; }
+  [dir="rtl"] .pr-4 { padding-right: 0; padding-left: 1rem; }
+}
+
+/* Custom Scrollbar */
+::-webkit-scrollbar {
+  width: 10px;
+}
+::-webkit-scrollbar-track {
+  @apply bg-background;
+}
+::-webkit-scrollbar-thumb {
+  @apply bg-white/10 rounded-full border-2 border-background;
+}
+::-webkit-scrollbar-thumb:hover {
+  @apply bg-white/20;
+}

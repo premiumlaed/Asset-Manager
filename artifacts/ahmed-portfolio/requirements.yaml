@@ -1,0 +1,26 @@
+packages:
+  "framer-motion": "For premium smooth animations, scroll reveals, and micro-interactions"
+  "react-helmet-async": "For managing SEO tags (<title>, <meta>, structured data) per page"
+  "clsx": "For conditional class merging"
+  "tailwind-merge": "For merging tailwind classes safely"
+
+images:
+  - path: "artifacts/ahmed-portfolio/public/images/portrait.png"
+    description: "Professional portrait of a confident middle-eastern male growth engineer, dark background, subtle neon teal and violet rim lighting, cinematic 8k, cyberpunk corporate aesthetic"
+    aspect_ratio: "3:4"
+  - path: "artifacts/ahmed-portfolio/public/images/dashboard-proof.png"
+    description: "Abstract representation of a high-tech marketing dashboard, glowing charts, graphs, metrics on a dark glassmorphism panel, teal and violet accents"
+    aspect_ratio: "16:9"
+  - path: "artifacts/ahmed-portfolio/public/images/network-node.png"
+    description: "Abstract 3D glowing network nodes connecting data points, representing automation and CRM systems, dark navy background with gold and violet glowing lines"
+    aspect_ratio: "16:9"
+  - path: "artifacts/ahmed-portfolio/public/images/course-whatsapp.png"
+    description: "Premium course cover design, abstract WhatsApp chat bubble icon made of glowing glass and neon lights, dark background, ultra high quality"
+    aspect_ratio: "16:9"
+  - path: "artifacts/ahmed-portfolio/public/images/course-ai.png"
+    description: "Premium course cover design, abstract artificial intelligence brain icon with glowing neural network lines, dark background, teal and purple colors"
+    aspect_ratio: "16:9"
+
+notes:
+  - The application is purely frontend, utilizing standard localStorage for settings (like language)
+  - wouter is used for routing across pages

@@ -1,0 +1,443 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Ahmed El Sayed Mohamed Kheir Eldin | Growth Systems, Data & Automation</title>
+    <meta
+      name="description"
+      content="موقع أحمد السيد محمد خيرالدين لعرض Growth Systems وAutomation وCRM وWhatsApp وبيع البيانات والبرامج والكورسات."
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Readex+Pro:wght@160..700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body class="site-page home-page" data-page="home">
+    <svg class="icon-sprite" aria-hidden="true" focusable="false">
+      <symbol id="icon-globe" viewBox="0 0 24 24">
+        <path d="M12 2a10 10 0 1 0 10 10A10 10 0 0 0 12 2Zm6.9 9h-3a16 16 0 0 0-1.2-5A8 8 0 0 1 18.9 11ZM12 4c.9 1.2 1.9 3.4 2.3 7H9.7C10.1 7.4 11.1 5.2 12 4Zm-2.3 9h4.6c-.4 3.6-1.4 5.8-2.3 7-.9-1.2-1.9-3.4-2.3-7ZM8.1 6A16 16 0 0 0 6.9 11h-3A8 8 0 0 1 8.1 6Zm-4.2 7h3a16 16 0 0 0 1.2 5A8 8 0 0 1 3.9 13Zm11 5a16 16 0 0 0 1.2-5h3a8 8 0 0 1-4.2 5Z" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+      </symbol>
+      <symbol id="icon-check" viewBox="0 0 24 24">
+        <path d="m5 13 4 4L19 7" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+      </symbol>
+      <symbol id="icon-menu" viewBox="0 0 24 24">
+        <path d="M4 7h16M4 12h16M4 17h16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/>
+      </symbol>
+      <symbol id="icon-arrow" viewBox="0 0 24 24">
+        <path d="M5 12h14m-5-5 5 5-5 5" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+      </symbol>
+      <symbol id="icon-rocket" viewBox="0 0 24 24">
+        <path d="M5 19c1.5-4 4-6.5 8-8 1.5-4 4-6.5 8-8 1.5 4 0 8-4 12s-8 5.5-12 4Zm3-3 2 2m5-9 2 2" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+      </symbol>
+      <symbol id="icon-flow" viewBox="0 0 24 24">
+        <path d="M6 6h6v4H6zm6 2h6M6 18h6v-4H6zm6-2h6m-6-4v4m0 0h3m-3 0H9" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+      </symbol>
+      <symbol id="icon-chart" viewBox="0 0 24 24">
+        <path d="M4 19h16M7 16V9m5 7V5m5 11v-4" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+      </symbol>
+      <symbol id="icon-stack" viewBox="0 0 24 24">
+        <path d="m12 4 8 4-8 4-8-4zm8 8-8 4-8-4m16 4-8 4-8-4" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+      </symbol>
+      <symbol id="icon-database" viewBox="0 0 24 24">
+        <path d="M12 4c4.4 0 8 1.3 8 3s-3.6 3-8 3-8-1.3-8-3 3.6-3 8-3Zm8 7c0 1.7-3.6 3-8 3s-8-1.3-8-3m16 5c0 1.7-3.6 3-8 3s-8-1.3-8-3" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+      </symbol>
+      <symbol id="icon-phone" viewBox="0 0 24 24">
+        <path d="M6.5 4h3l1.3 4.2-1.7 1.7a15 15 0 0 0 5 5l1.7-1.7L20 14.5v3A2.5 2.5 0 0 1 17.5 20C10.6 20 5 14.4 5 7.5A2.5 2.5 0 0 1 7.5 5Z" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+      </symbol>
+      <symbol id="icon-mail" viewBox="0 0 24 24">
+        <path d="M4 6h16v12H4zm0 1 8 6 8-6" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+      </symbol>
+    </svg>
+
+    <div class="ambient ambient-one"></div>
+    <div class="ambient ambient-two"></div>
+
+    <div class="site-shell">
+      <header class="site-header">
+        <a class="brand" href="index.html" aria-label="Ahmed El Sayed Mohamed Kheir Eldin">
+          <img src="logo-800.png" alt="Ahmed El Sayed Mohamed Kheir Eldin logo" />
+          <div class="brand-copy">
+            <span data-i18n="common.brandName">أحمد السيد محمد خيرالدين</span>
+            <strong data-i18n="common.brandRole">Growth Marketing Automation Engineer AI</strong>
+          </div>
+        </a>
+
+        <button
+          class="nav-toggle"
+          type="button"
+          aria-expanded="false"
+          aria-label="فتح القائمة"
+          data-i18n-attr="aria-label:common.navToggle"
+        >
+          <svg><use href="#icon-menu"></use></svg>
+        </button>
+
+        <div class="header-tools">
+          <nav class="site-nav" id="main-nav">
+            <a class="is-current" href="#services" data-i18n="common.nav.0">الخدمات</a>
+            <a href="data-sales.html" data-i18n="common.nav.1">بيع البيانات</a>
+            <a href="software-sales.html" data-i18n="common.nav.2">بيع البرامج</a>
+            <a href="courses.html" data-i18n="common.nav.3">الكورسات</a>
+            <a href="#stack" data-i18n="common.nav.4">القدرات</a>
+            <a href="#proof" data-i18n="common.nav.5">النتائج</a>
+            <a href="#contact" data-i18n="common.nav.6">التواصل</a>
+          </nav>
+
+          <div class="header-actions">
+            <a class="button button-primary header-cta" href="https://wa.me/201006334062" target="_blank" rel="noreferrer" data-i18n="common.topCta">
+              ابدأ عبر WhatsApp
+            </a>
+
+            <div class="lang-switcher" aria-label="Language switcher">
+              <button class="lang-trigger" type="button" aria-expanded="false">
+                <span class="lang-trigger-icon"><svg><use href="#icon-globe"></use></svg></span>
+                <span class="lang-trigger-copy">
+                  <small data-i18n="common.langMenuTitle">اختر اللغة</small>
+                  <span class="lang-trigger-text">العربية</span>
+                </span>
+                <span class="lang-trigger-code">AR</span>
+              </button>
+
+              <div class="lang-menu">
+                <div class="lang-menu-title" data-i18n="common.langMenuTitle">اختر اللغة</div>
+                <button class="lang-button is-active" type="button" data-lang="ar" aria-pressed="true">
+                  <span class="lang-option-code">AR</span>
+                  <span class="lang-option-copy">
+                    <span class="lang-option-label">العربية</span>
+                    <span class="lang-option-note">RTL</span>
+                  </span>
+                  <span class="lang-option-check"><svg><use href="#icon-check"></use></svg></span>
+                </button>
+                <button class="lang-button" type="button" data-lang="en" aria-pressed="false">
+                  <span class="lang-option-code">EN</span>
+                  <span class="lang-option-copy">
+                    <span class="lang-option-label">English</span>
+                    <span class="lang-option-note">LTR</span>
+                  </span>
+                  <span class="lang-option-check"><svg><use href="#icon-check"></use></svg></span>
+                </button>
+                <button class="lang-button" type="button" data-lang="fr" aria-pressed="false">
+                  <span class="lang-option-code">FR</span>
+                  <span class="lang-option-copy">
+                    <span class="lang-option-label">Français</span>
+                    <span class="lang-option-note">LTR</span>
+                  </span>
+                  <span class="lang-option-check"><svg><use href="#icon-check"></use></svg></span>
+                </button>
+                <button class="lang-button" type="button" data-lang="fa" aria-pressed="false">
+                  <span class="lang-option-code">FA</span>
+                  <span class="lang-option-copy">
+                    <span class="lang-option-label">فارسی</span>
+                    <span class="lang-option-note">RTL</span>
+                  </span>
+                  <span class="lang-option-check"><svg><use href="#icon-check"></use></svg></span>
+                </button>
+              </div>
+            </div>
+          </div>
+        </div>
+      </header>
+
+      <main class="page-main">
+        <section class="hero-section reveal">
+          <div class="hero-copy">
+            <p class="eyebrow" data-i18n="home.heroEyebrow">Growth. Automation. CRM. Data. WhatsApp. AI.</p>
+            <h1 data-i18n-html="home.heroTitle">
+              أبني <span>Growth Systems</span> تربط بين <em>Leads, Follow-up, Conversion</em>
+            </h1>
+            <p class="section-text hero-text" data-i18n="home.heroText">
+              هذا الموقع ليس Portfolio تقليدي. هو واجهة بيع وتنفيذ لخدمات Growth Marketing وAutomation وCRM وData Products وSoftware Products وكورسات عملية قابلة للتطبيق.
+            </p>
+            <div class="hero-actions">
+              <a class="button button-primary" href="#services" data-i18n="home.heroButtons.0">استكشف الخدمات</a>
+              <a class="button button-secondary" href="https://wa.me/201006334062" target="_blank" rel="noreferrer" data-i18n="home.heroButtons.1">اطلب System مناسب</a>
+            </div>
+            <ul class="metric-grid">
+              <li class="metric-card">
+                <strong class="counter" data-target="15" data-suffix="+">0+</strong>
+                <span data-i18n="home.metrics.0">سنوات خبرة عملية</span>
+              </li>
+              <li class="metric-card">
+                <strong class="counter" data-target="400" data-suffix="k+">0k+</strong>
+                <span data-i18n="home.metrics.1">سجل Data جاهز للتجهيز</span>
+              </li>
+              <li class="metric-card">
+                <strong class="counter" data-target="7" data-suffix="+">0+</strong>
+                <span data-i18n="home.metrics.2">قنوات Conversion مرتبطة ببعض</span>
+              </li>
+            </ul>
+          </div>
+
+          <div class="hero-media">
+            <figure class="hero-portrait-card">
+              <div class="portrait-frame">
+                <img src="Ahmed EL Sayed/1.png" alt="Ahmed El Sayed Mohamed Kheir Eldin identity board" />
+              </div>
+              <figcaption>
+                <span class="mini-label" data-i18n="home.heroLabel">هوية العرض</span>
+                <strong data-i18n="common.brandName">أحمد السيد محمد خيرالدين</strong>
+              </figcaption>
+            </figure>
+
+            <div class="info-card-grid">
+              <article class="info-card">
+                <span class="icon-badge"><svg><use href="#icon-rocket"></use></svg></span>
+                <div>
+                  <h3 data-i18n="home.sideCards.0.title">Sales-first Positioning</h3>
+                  <p data-i18n="home.sideCards.0.text">التركيز على بناء System يبيع ويُتابع ويقيس، لا مجرد حملة معزولة.</p>
+                </div>
+              </article>
+              <article class="info-card">
+                <span class="icon-badge"><svg><use href="#icon-flow"></use></svg></span>
+                <div>
+                  <h3 data-i18n="home.sideCards.1.title">WhatsApp-first Conversion</h3>
+                  <p data-i18n="home.sideCards.1.text">التحويل يبدأ من Ads أو Leads أو Data ثم يمر على WhatsApp وCRM وFollow-up Logic.</p>
+                </div>
+              </article>
+            </div>
+          </div>
+        </section>
+
+        <section class="proof-boards reveal">
+          <div class="section-heading">
+            <p class="eyebrow" data-i18n="home.trust.eyebrow">Proof & Logos</p>
+            <h2 data-i18n="home.trust.title">شعارات منصات وعملاء حقيقية من الأصول المحلية</h2>
+            <p class="section-text" data-i18n="home.trust.text">
+              تم عرض Boards فعلية تحتوي على المنصات والعملاء والمنتجات التي تم استخدامها أو العمل عليها داخل Projects حقيقية.
+            </p>
+          </div>
+
+          <div class="board-grid">
+            <article class="board-card">
+              <div class="board-frame">
+                <img src="ahmed hedar bor.png" alt="Platforms board with Meta, SendPulse, n8n, Make, Segment" />
+              </div>
+              <div class="board-copy">
+                <h3 data-i18n="home.trust.boards.0.title">Platforms In Daily Workflow</h3>
+                <p data-i18n="home.trust.boards.0.text">Meta, SendPulse, n8n, Make, Segment داخل طبقة التشغيل اليومية.</p>
+                <div class="chip-row">
+                  <span>Meta</span>
+                  <span>SendPulse</span>
+                  <span>n8n</span>
+                  <span>Make</span>
+                  <span>Segment</span>
+                </div>
+              </div>
+            </article>
+
+            <article class="board-card">
+              <div class="board-frame">
+                <img src="Ahmed EL Sayed.png" alt="Ahmed El Sayed profile board" />
+              </div>
+              <div class="board-copy">
+                <h3 data-i18n="home.trust.boards.1.title">Brand Identity + Platform Layer</h3>
+                <p data-i18n="home.trust.boards.1.text">واجهة ثقة مناسبة للـ landing page والـ outreach والـ social proof.</p>
+                <div class="chip-row">
+                  <span>Profile</span>
+                  <span>Proof</span>
+                  <span>Meta</span>
+                  <span>n8n</span>
+                </div>
+              </div>
+            </article>
+
+            <article class="board-card">
+              <div class="board-frame">
+                <img src="Ahmed EL Sayed-2/2.png" alt="Maroof commerce board" />
+              </div>
+              <div class="board-copy">
+                <h3 data-i18n="home.trust.boards.2.title">Commerce & Data Boards</h3>
+                <p data-i18n="home.trust.boards.2.text">أمثلة على منتجات Data وواجهات موجهة لقطاعات سعودية وعلامات معروفة.</p>
+                <div class="chip-row">
+                  <span>CLARA</span>
+                  <span>Maroof</span>
+                  <span>Mawdoo3</span>
+                  <span>RINA</span>
+                </div>
+              </div>
+            </article>
+          </div>
+        </section>
+
+        <section id="services" class="offer-section reveal">
+          <div class="section-heading">
+            <p class="eyebrow" data-i18n="home.offers.eyebrow">Offer Structure</p>
+            <h2 data-i18n="home.offers.title">أربع مسارات بيع داخل موقع واحد</h2>
+            <p class="section-text" data-i18n="home.offers.text">التوزيع الحالي مبني ليخدم التنفيذ السريع والـ conversion path الواضح.</p>
+          </div>
+
+          <div class="offer-grid">
+            <article class="offer-card">
+              <span class="card-icon icon-badge"><svg><use href="#icon-rocket"></use></svg></span>
+              <span class="pill" data-i18n="home.offers.cards.0.tag">Services</span>
+              <h3 data-i18n="home.offers.cards.0.title">Growth & Automation Services</h3>
+              <p data-i18n="home.offers.cards.0.text">بناء CRM وWhatsApp Workflows وLead Engines وAutomation Systems.</p>
+              <a class="text-link" href="#stack" data-i18n="home.offers.cards.0.cta">استكشف الخدمات</a>
+            </article>
+            <article class="offer-card">
+              <span class="card-icon icon-badge"><svg><use href="#icon-database"></use></svg></span>
+              <span class="pill" data-i18n="home.offers.cards.1.tag">Data</span>
+              <h3 data-i18n="home.offers.cards.1.title">Data Products</h3>
+              <p data-i18n="home.offers.cards.1.text">بيع B2B Data وCompany Records وAudience Datasets بصيغة جاهزة للتشغيل.</p>
+              <a class="text-link" href="data-sales.html" data-i18n="home.offers.cards.1.cta">ادخل صفحة البيانات</a>
+            </article>
+            <article class="offer-card">
+              <span class="card-icon icon-badge"><svg><use href="#icon-stack"></use></svg></span>
+              <span class="pill" data-i18n="home.offers.cards.2.tag">Software</span>
+              <h3 data-i18n="home.offers.cards.2.title">Software & Extraction</h3>
+              <p data-i18n="home.offers.cards.2.text">بيع Tools وTemplates وBots وSystems جاهزة أو قابلة للتخصيص.</p>
+              <a class="text-link" href="software-sales.html" data-i18n="home.offers.cards.2.cta">ادخل صفحة البرامج</a>
+            </article>
+            <article class="offer-card">
+              <span class="card-icon icon-badge"><svg><use href="#icon-chart"></use></svg></span>
+              <span class="pill" data-i18n="home.offers.cards.3.tag">Courses</span>
+              <h3 data-i18n="home.offers.cards.3.title">Courses</h3>
+              <p data-i18n="home.offers.cards.3.text">كورسات عملية في WhatsApp وWhatsApp Funnel وAI للتطبيق المباشر.</p>
+              <a class="text-link" href="courses.html" data-i18n="home.offers.cards.3.cta">ادخل صفحة الكورسات</a>
+            </article>
+          </div>
+        </section>
+
+        <section id="stack" class="system-section reveal">
+          <div class="section-heading">
+            <p class="eyebrow" data-i18n="home.system.eyebrow">Execution Model</p>
+            <h2 data-i18n="home.system.title">كيف يتحرك الـ funnel من أول Lead إلى Closing</h2>
+            <p class="section-text" data-i18n="home.system.text">الهيكل مبني على Data ثم Routing ثم Follow-up ثم Measurement ثم Reactivation.</p>
+          </div>
+
+          <div class="system-grid">
+            <article class="step-card">
+              <span class="card-icon icon-badge"><svg><use href="#icon-database"></use></svg></span>
+              <h3 data-i18n="home.system.steps.0.title">Data & Demand Input</h3>
+              <p data-i18n="home.system.steps.0.text">تجميع Leads أو Data أو طلبات Inbound في نقطة دخول منظمة.</p>
+            </article>
+            <article class="step-card">
+              <span class="card-icon icon-badge"><svg><use href="#icon-flow"></use></svg></span>
+              <h3 data-i18n="home.system.steps.1.title">Routing & Automation</h3>
+              <p data-i18n="home.system.steps.1.text">توزيع البيانات داخل CRM وWhatsApp وFlows مع منطق متابعة واضح.</p>
+            </article>
+            <article class="step-card">
+              <span class="card-icon icon-badge"><svg><use href="#icon-chart"></use></svg></span>
+              <h3 data-i18n="home.system.steps.2.title">Conversion & Reactivation</h3>
+              <p data-i18n="home.system.steps.2.text">قياس التحويل، إحياء الفرص الباردة، وتحسين الـ offer والـ timing باستمرار.</p>
+            </article>
+          </div>
+
+          <div class="chip-row chip-row-soft">
+            <span>WhatsApp</span>
+            <span>CRM</span>
+            <span>n8n</span>
+            <span>Make</span>
+            <span>Meta Ads</span>
+            <span>Google Ads</span>
+            <span>ETL</span>
+            <span>AI</span>
+          </div>
+        </section>
+
+        <section id="proof" class="results-section reveal">
+          <div class="section-heading">
+            <p class="eyebrow" data-i18n="home.proof.eyebrow">Results</p>
+            <h2 data-i18n="home.proof.title">نتائج وأرقام تدعم التموضع</h2>
+          </div>
+
+          <div class="results-grid">
+            <article class="result-card">
+              <strong class="counter" data-target="120" data-suffix="%">0%</strong>
+              <span data-i18n="home.proof.stats.0">زيادة في Qualified Leads</span>
+            </article>
+            <article class="result-card">
+              <strong class="counter" data-target="40" data-suffix="%">0%</strong>
+              <span data-i18n="home.proof.stats.1">خفض في سرعة الرد على الصفقات</span>
+            </article>
+            <article class="result-card">
+              <strong class="counter" data-target="400" data-suffix="k+">0k+</strong>
+              <span data-i18n="home.proof.stats.2">سجل داخل CLARA Database</span>
+            </article>
+            <article class="result-card">
+              <strong class="counter" data-target="35" data-suffix="k+">0k+</strong>
+              <span data-i18n="home.proof.stats.3">موقع Parking مدعوم داخل Dokhlak</span>
+            </article>
+          </div>
+
+          <div class="case-grid">
+            <article class="case-card">
+              <h3 data-i18n="home.proof.cases.0.title">Regional CRM + WhatsApp Flow</h3>
+              <p data-i18n="home.proof.cases.0.text">تنفيذ CRM قابل للتخصيص مع منطق Follow-up واستخدام إقليمي عبر أكثر من دولة.</p>
+            </article>
+            <article class="case-card">
+              <h3 data-i18n="home.proof.cases.1.title">Data Operations & Audience Prep</h3>
+              <p data-i18n="home.proof.cases.1.text">تجهيز Data Products واستخدامها في targeting وoutreach وعمليات growth أسرع.</p>
+            </article>
+          </div>
+        </section>
+
+        <section id="contact" class="cta-section reveal">
+          <div class="cta-copy">
+            <p class="eyebrow" data-i18n="home.contact.eyebrow">Direct Conversion</p>
+            <h2 data-i18n="home.contact.title">اختر المسار المناسب وابدأ من نفس الصفحة</h2>
+            <p class="section-text" data-i18n="home.contact.text">يمكن البدء الآن بطلب خدمة أو Data أو Software أو Course، وسيتم توجيهك إلى أقصر path للتنفيذ.</p>
+          </div>
+          <div class="cta-actions">
+            <a class="button button-primary" href="https://wa.me/201006334062" target="_blank" rel="noreferrer" data-i18n="home.contact.buttons.0">ابدأ عبر WhatsApp</a>
+            <a class="button button-secondary" href="data-sales.html" data-i18n="home.contact.buttons.1">استعرض بيع البيانات</a>
+          </div>
+        </section>
+      </main>
+
+      <footer class="site-footer">
+        <div class="footer-brand">
+          <span class="footer-kicker" data-i18n="common.footerTag">Growth Systems for Leads, Follow-up, Conversion.</span>
+          <h2 data-i18n="common.footerTitle">جاهز لتحويل الموقع أو الخدمة إلى Sales Engine فعلي؟</h2>
+          <p data-i18n="common.footerText">يمكن البدء بطلب Data أو Software أو Course أو تنفيذ System مخصص حسب النشاط والسوق.</p>
+          <div class="footer-actions">
+            <a class="button button-primary" href="https://wa.me/201006334062" target="_blank" rel="noreferrer" data-i18n="common.footerPrimary">ابدأ المحادثة</a>
+            <a class="button button-secondary" href="mailto:ahmedmokireldin@gmail.com" data-i18n="common.footerSecondary">أرسل Email</a>
+          </div>
+        </div>
+
+        <div class="footer-meta">
+          <div>
+            <h3 data-i18n="common.footerLinksTitle">روابط سريعة</h3>
+            <div class="footer-links">
+              <a href="#services" data-i18n="common.nav.0">الخدمات</a>
+              <a href="data-sales.html" data-i18n="common.nav.1">بيع البيانات</a>
+              <a href="software-sales.html" data-i18n="common.nav.2">بيع البرامج</a>
+              <a href="courses.html" data-i18n="common.nav.3">الكورسات</a>
+            </div>
+            <div class="footer-legal">
+              <a href="policies.html" data-i18n="common.legalPolicy">السياسات</a>
+              <a href="terms.html" data-i18n="common.legalTerms">الشروط</a>
+            </div>
+          </div>
+
+          <div>
+            <h3 data-i18n="common.footerContactTitle">تواصل مباشر</h3>
+            <p data-i18n="common.footerContactText">WhatsApp-first execution مع دعم بالعربية والإنجليزية لمشاريع Data, Automation, CRM, AI.</p>
+            <div class="contact-stack">
+              <a href="tel:+201006334062"><svg><use href="#icon-phone"></use></svg> +20 100 633 4062</a>
+              <a href="mailto:ahmedmokireldin@gmail.com"><svg><use href="#icon-mail"></use></svg> ahmedmokireldin@gmail.com</a>
+              <span><svg><use href="#icon-globe"></use></svg> <span data-i18n="common.footerLocation">ميت القرشي، ميت غمر، الدقهلية، مصر</span></span>
+            </div>
+          </div>
+        </div>
+      </footer>
+    </div>
+
+    <div class="floating-cta">
+      <a class="floating-cta-primary" href="https://wa.me/201006334062" target="_blank" rel="noreferrer">
+        <span data-i18n="common.floatingPrimary">واتساب</span>
+      </a>
+      <a class="floating-cta-secondary" href="#contact">
+        <span data-i18n="common.floatingSecondary">تواصل الآن</span>
+      </a>
+    </div>
+
+    <script src="translations.js"></script>
+    <script src="script.js"></script>
+  </body>
+</html>

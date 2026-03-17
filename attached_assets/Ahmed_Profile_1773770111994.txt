@@ -1,0 +1,406 @@
+﻿Ahmed Mokireldin - Professional Profile &amp; Service Database
+Complete Professional DocumentationDigital Marketing Automation Specialist | Database Solutions Provider | WhatsApp &amp; CRM Systems Developer
+
+Personal Information
+Full Name: Ahmed MokireldinLocation: Mit El-Qurashi, Mit Ghamr, Dakahlia Governorate, EgyptRegion: Middle East / North Africa (MENA)Contact Numbers:
+Primary WhatsApp: +201006334062
+Secondary: +201012025650
+Professional Title: Growth Marketing Automation &amp; Lead Generation SpecialistAlternative Titles:
+Marketing Automation Engineer
+Digital Marketing Technical Lead
+Database Solutions Architect
+WhatsApp Business Integration Specialist
+
+Professional Summary
+أخصائي تسويق رقمي تقني ومهندس أتمتة بخبرة تمتد لـ 15 عامًا في بناء أنظمة التسويق الآلي وقواعد البيانات الضخمة وحلول الـ SaaS المتكاملة. أعمل على تطوير منصات واتساب متقدمة، إدارة حملات رقمية معقدة، واستخراج ومعالجة البيانات من مصادر عالمية لأغراض تسويقية واستهداف دقيق. أمتلك خبرة عميقة في ربط الأنظمة المختلفة عبر APIs، بناء Chatbots ذكية، وتصميم Customer Journeys كاملة من الـ Lead إلى الـ Sale.
+
+Core Expertise &amp; Skills
+Technical Skills (المهارات التقنية)
+Programming Languages: PHP, Python, JavaScript/Node.js, SQL, HTML/CSS
+Database Management: MySQL, PostgreSQL, SQLite, Big Data handling (50GB+ datasets)
+APIs &amp; Integration: REST APIs, Webhooks, Web Services, Custom API development
+Web Development: Full-stack development, Landing Pages, SaaS platforms
+Data Engineering: Web Scraping, Data Extraction, ETL processes, Data Cleaning &amp; Transformation
+RPA &amp; Automation: Robotic Process Automation, Workflow automation, Task scheduling
+Marketing Automation Platforms (منصات الأتمتة)
+Advanced Level: n8n, Make.com, SendPulse, GoHighLevel
+Intermediate Level: Zapier, ActiveCampaign, HubSpot
+Specialized Tools: CheatLayer, RTILA, WPFunnels (Lifetime license - 5 sites)
+WhatsApp Solutions: Baileys library, WhatsApp Business API, Custom bot development
+CRM Systems: Custom CRM development, GoHighLevel, integration with marketing funnels
+Marketing &amp; Growth Skills
+Digital Marketing: 15+ years experience in Media Buying, Campaign Management, ROI Optimization
+Marketing Automation: Email Marketing, WhatsApp Marketing, SMS Marketing, Multi-channel campaigns
+Lead Generation: B2B &amp; B2C lead generation, Database building, Targeting &amp; Segmentation
+Funnel Building: Complete sales funnels, Landing pages, Conversion optimization
+Analytics: Campaign tracking, Performance analysis, Data-driven decision making
+System Architecture &amp; Design
+Building complete SaaS platforms from scratch
+System integration between multiple platforms and tools
+Database architecture for large-scale data operations
+Automated workflow design and implementation
+UI/UX design using Figma and modern design tools
+
+Services Offered (الخدمات المقدمة)
+1. Database Solutions &amp; Lead Generation
+Global Database Sales
+Database Type
+Coverage
+Description
+Facebook Leads
+Worldwide
+قواعد بيانات فيسبوك لجميع الدول، جاهزة للاستهداف الإعلاني (Custom Audiences / Lookalike)
+LinkedIn Data
+Worldwide
+بيانات صناع القرار وأصحاب الأعمال والمسؤولين التنفيذيين من LinkedIn لكل الدول
+Company Data
+Global
+بيانات الشركات والمؤسسات التجارية لأغراض B2B Marketing
+E-commerce Stores
+Multiple Markets
+قوائم المتاجر الإلكترونية والبائعين عبر الإنترنت
+
+Table 1: أنواع قواعد البيانات المتوفرة
+Premium International Databases
+USA &amp; Canada Big Data Collections:
+Apollo.io Database: ملف ضخم (Apollo_V7_V5_per_all_fields.csv) بحجم 50GB تقريبًا، يحتوي على جميع الحقول (all fields) للأسواق الأمريكية والكندية
+ZoomInfo Datasets: قواعد بيانات B2B عالية الجودة للشركات والمسؤولين
+LeadRocks &amp; NinjaLeads: ملايين الـ Leads مقسّمة حسب الدولة والنيتش والصناعة
+People Data Labs: بيانات ديموغرافية ومهنية تفصيلية
+جميع القواعد متوفرة بصيغة CSV جاهزة للاستيراد والاستخدام الفوري في الحملات التسويقية.
+Data Extraction Tools
+Ultra Facebook Lead Generation: أداة احترافية لاستخراج بيانات فيسبوك من قواعد جاهزة متعددة الدول (Bahrain, Egypt, Emirates, Iraq, Saudi Arabia, وغيرها)
+تسمح باختيار حقول مخصصة: Facebook ID، Phone، الاسم، الإيميل، الموقع، البلد، التعليم، العمل، وغيرها
+إمكانية التصدير بصيغ متعددة وفلترة متقدمة
+2. Marketing Automation Services
+بناء أنظمة Email Marketing كاملة مع تكامل CRM
+تصميم وتنفيذ WhatsApp Marketing campaigns
+SMS Marketing automation
+Multi-channel campaign orchestration
+Lead nurturing workflows and drip campaigns
+Marketing funnel automation من Lead إلى Customer
+Integration بين منصات التسويق المختلفة (SendPulse, Make, n8n, GoHighLevel)
+3. WhatsApp Solutions &amp; Chatbot Development
+WhatsApp Business Systems
+تطوير شات بوتات واتساب متقدمة باستخدام Baileys library
+دعم Interactive Buttons و List Messages
+بناء Product Catalogs داخل الواتساب
+نظام Order Confirmation وإدارة الطلبات
+Auto-Reply systems ذكية
+AI-powered chatbot flows with natural language processing
+تكامل WhatsApp مع CRM و Google Sheets
+WhatsApp API integration for business accounts
+Recent WhatsApp Projects
+Zumra Food Chatbot: شات بوت مطعم مع كتالوج منتجات، صور، وتأكيد طلبات
+AI Chatbot Management: نظام إدارة شات بوتات ذكية مع خدمات متعددة
+Template Management: نظام قوالب رسائل مع دعم Baileys interactive buttons
+4. SaaS Platform Development
+بناء منصات SaaS مصغرة حسب الطلب
+أنظمة حجز وإدارة عملاء
+تدفقات أوتوماتيكية مخصصة
+Custom CRM solutions
+Booking systems and appointment scheduling
+Customer management portals
+Integration with payment gateways
+5. Web Development &amp; Design
+تصميم وبناء Landing Pages عالية التحويل
+مواقع خدمات احترافية
+UI/UX Design using Figma
+Responsive web design
+Full-stack web development (Frontend + Backend)
+WordPress customization and optimization
+6. Data Services
+Web Scraping من مواقع متعددة
+Data Extraction and Cleaning
+Database design and optimization
+ETL processes for large datasets
+Data transformation and formatting
+Custom data pipelines using n8n and Make
+7. Local Services (Mit El-Qurashi Area)
+خدمات دفع إلكتروني محلية (Instapay, Vodafone Cash)
+استلام وتسليم محلي للمنتجات الرقمية
+دعم فني محلي للعملاء في منطقة ميت القرشي – ميت غمر – الدقهلية
+
+Software Products &amp; Digital Products (المنتجات البرمجية)
+WhatsApp Software Solutions
+WhatsApp Business Bot Platform: منصة جاهزة لإنشاء بوتات واتساب بدون برمجة
+WhatsApp API Integration Tool: أداة ربط واتساب مع الأنظمة الخارجية
+WhatsApp Message Templates Library: مكتبة قوالب رسائل جاهزة
+WhatsApp Analytics Dashboard: لوحة تحليلات لمحادثات واتساب
+CRM Solutions
+Custom CRM System: نظام CRM مخصص قابل للتخصيص حسب احتياجات العميل
+Lead Management Tool: أداة إدارة العملاء المحتملين
+Sales Funnel Tracker: متابع مسار المبيعات
+Automation Tools
+Email Automation Suite: مجموعة أدوات أتمتة البريد الإلكتروني
+Social Media Auto-Responder: نظام ردود تلقائية للسوشيال ميديا
+Data Extraction Bots: بوتات استخراج بيانات مخصصة
+Digital Products &amp; Licenses
+WPFunnels Lifetime License: رخصة مدى الحياة لـ 5 مواقع (قابلة للبيع أو الاستخدام في مشاريع العملاء)
+Marketing eBooks: كتب رقمية حول التسويق والأتمتة
+Course Materials: مواد تعليمية لكورسات الأتمتة والتسويق
+Templates &amp; Workflows: قوالب جاهزة لـ n8n, Make.com workflows
+
+Platforms &amp; Tools Expertise
+Marketing Platforms
+Platform
+Proficiency Level
+SendPulse
+Expert
+Make.com
+Expert
+n8n
+Expert
+GoHighLevel
+Advanced
+ActiveCampaign
+Intermediate
+HubSpot
+Intermediate
+Zapier
+Advanced
+
+Table 2: Marketing automation platforms expertise
+Development Tools
+Code Editors: VS Code, PhpStorm, PyCharm
+Version Control: Git, GitHub
+Database Tools: phpMyAdmin, MySQL Workbench, DBeaver
+Design Tools: Figma, Adobe XD
+Testing Tools: Postman (API testing), Browser DevTools
+Automation: CheatLayer, RTILA, Selenium
+Data Sources &amp; Providers
+Apollo.io
+ZoomInfo
+People Data Labs
+LeadRocks
+NinjaLeads
+LinkedIn Sales Navigator
+Facebook Business Manager
+
+Experience &amp; Projects
+Years of Experience: 15+ Years
+Timeline:
+2010-2015: Digital Marketing Specialist - Media Buying &amp; Campaign Management
+2015-2020: Marketing Automation Engineer - Building automation systems
+2020-Present: SaaS Developer &amp; Database Solutions Provider
+Key Project Types
+WhatsApp Business Automation:
+تطوير بوتات واتساب للمطاعم والمتاجر الإلكترونية
+أنظمة Auto-reply ذكية مع AI integration
+Product catalog systems داخل WhatsApp
+Marketing Automation Workflows:
+بناء Customer Journeys معقدة على n8n و Make
+تكامل بين منصات متعددة (CRM + Email + WhatsApp + SMS)
+Lead scoring and nurturing systems
+Database Projects:
+إدارة وتنظيف قواعد بيانات بحجم 50GB+
+بناء Data pipelines لاستخراج البيانات من مصادر متعددة
+Database optimization for large-scale operations
+SaaS Platforms:
+بناء منصات حجز وإدارة عملاء
+أنظمة CRM مخصصة
+Landing page builders
+Real Estate Marketing:
+حملات تسويق عقاري مع قواعد بيانات مستهدفة
+WhatsApp marketing للعقارات
+Lead generation funnels for real estate
+
+Education &amp; Continuous Learning
+Formal Education
+Background in Computer Science / Information Technology
+Self-taught in advanced programming and automation
+Continuous Learning Focus Areas
+Advanced n8n capabilities and custom nodes
+AI model integration (GPT, Claude) with chatbots
+Large-scale data processing techniques
+Low-code/no-code platform development
+Open-source alternatives to commercial tools
+Database architecture optimization
+Modern API integration patterns
+UI/UX design principles
+Prompt engineering for AI applications
+Online Courses &amp; Certifications
+Marketing Automation specialized training
+Database Management advanced courses
+API Development and Integration
+WhatsApp Business API certification paths
+
+Business Model &amp; Service Delivery
+Revenue Streams
+Database Sales: بيع قواعد بيانات جاهزة (B2B &amp; B2C)
+Custom Development: تطوير حلول مخصصة للعملاء
+SaaS Subscriptions: اشتراكات شهرية للمنصات المطورة
+Consulting Services: استشارات تسويق رقمي وأتمتة
+Software Licenses: بيع رخص برمجيات وأدوات
+Training &amp; Courses: كورسات تدريبية حول الأتمتة
+Target Markets
+Geographic: Middle East (primary), North America (database clients), Global (digital services)
+Industries: E-commerce, Real Estate, Restaurants, Local Businesses, B2B Services, Marketing Agencies
+Client Size: SMBs, Startups, Individual Entrepreneurs, Marketing Teams
+Payment Methods
+Instapay (Egypt)
+Vodafone Cash (Egypt)
+Bank Transfer (Local &amp; International)
+PayPal (International clients)
+Cryptocurrency (for international deals)
+
+Online Presence &amp; Branding
+Professional Website
+Primary Domain: go.ahmedmokireldin.online
+Key Pages:
+Landing page / Homepage
+Services page
+Courses page (/courses)
+Database offerings
+Contact information
+Brand Identity
+Professional Positioning:
+"Database Seller – من الأعماق إليك أنت"
+Marketing Automation Expert
+WhatsApp Business Solutions Provider
+Big Data Handler
+Visual Branding:
+Professional business imagery
+Tech-focused design elements
+Integration with known platforms (Apollo.io, ZoomInfo, LinkedIn, etc.)
+Emphasis on data security and marketing compliance
+Social Media &amp; Communication
+WhatsApp Business: +201006334062 (primary contact)
+Professional networking on LinkedIn
+Tech community engagement
+Marketing forums participation
+
+Technical Infrastructure
+Development Environment
+Hardware: 5TB+ storage for large databases
+Operating Systems: Windows, Linux (for servers)
+Local Development: XAMPP/WAMP, Node.js environment, Python environment
+Cloud Services: Various cloud platforms for hosting and storage
+Data Storage Architecture
+Local storage: 5TB external hard drives for database archives
+Cloud backup systems
+Database management systems: MySQL, PostgreSQL
+File organization by country, source, and data type
+Example: Apollo-2025 folder containing 50GB+ CSV files
+API Integrations Experience
+WhatsApp Business API (Baileys library)
+Google Sheets API
+SendPulse API
+Make.com webhooks and modules
+n8n custom nodes and HTTP requests
+Facebook Graph API
+LinkedIn API
+Payment gateway APIs
+
+Work Style &amp; Preferences
+Development Approach
+Preference for complete, ready-to-run applications
+Focus on production-ready solutions
+Emphasis on automation and scalability
+Code quality and documentation
+Testing and quality assurance
+Iterative development with continuous improvement
+Project Management
+Late-night development sessions (high productivity hours)
+Continuous platform experimentation
+Regular testing and iteration
+Active research of new automation platforms
+Seeking optimal solutions and cost-effective tools
+Client Interaction Style
+Clear communication in Arabic and English
+Technical explanations adapted to client level
+Focus on ROI and business outcomes
+Transparent pricing and timelines
+Post-delivery support and maintenance
+
+Unique Value Propositions
+What Sets This Service Apart
+Big Data Handling: قدرة على إدارة قواعد بيانات ضخمة (50GB+) مع معالجة وتنظيف احترافي
+Multi-Platform Integration: خبرة في ربط أنظمة متعددة في workflow واحد سلس
+Custom Automation: بناء حلول أتمتة مخصصة بدلاً من الحلول الجاهزة العامة
+WhatsApp Expertise: تخصص عميق في واتساب بيزنس وتطوير Chatbots متقدمة
+Database Diversity: وصول لمصادر بيانات عالمية متنوعة (Apollo, ZoomInfo, LeadRocks, وغيرها)
+End-to-End Solutions: من قاعدة البيانات إلى الحملة التسويقية إلى التحويل - حل كامل متكامل
+Cost-Effective: استخدام أدوات open-source وlow-code لتقليل التكاليف مع الحفاظ على الجودة
+Local &amp; Global: خدمة عملاء محليين في مصر وعملاء دوليين بنفس الاحترافية
+
+Current Focus &amp; Future Plans
+Active Projects (2026)
+تطوير منصة SaaS للواتساب ماركتنج
+توسيع قواعد البيانات لتشمل أسواق جديدة
+بناء AI Chatbot management platform
+تطوير كورسات تدريبية حول الأتمتة
+إنشاء مكتبة Templates جاهزة لـ n8n و Make
+Growth Strategy
+Service Expansion: إضافة خدمات جديدة حول AI وautomation
+Product Development: بناء منتجات SaaS قابلة للتسويق الواسع
+Market Penetration: التوسع في السوق الخليجي والأمريكي
+Team Building: بناء فريق من المطورين والمسوقين
+Brand Building: تعزيز الحضور الرقمي والسمعة المهنية
+Learning Roadmap
+AI integration with marketing automation
+Advanced database optimization techniques
+Scalable SaaS architecture
+Modern frontend frameworks (React, Vue)
+Cloud infrastructure management (AWS, Google Cloud)
+Advanced analytics and BI tools
+
+Professional Philosophy
+Core Principles
+Quality Standards
+لا placeholders - كل شيء يجب أن يعمل بشكل كامل
+Code quality matters - كود نظيف وقابل للصيانة
+User experience first - التركيز على تجربة المستخدم النهائي
+Data security - حماية بيانات العملاء أولوية قصوى
+Continuous improvement - التحسين المستمر للحلول المقدمة
+Contact &amp; Engagement
+How to Reach
+For Database Inquiries:WhatsApp: +201006334062Subject: Database Purchase - [Country/Type]
+For Development Projects:WhatsApp: +201006334062Subject: Custom Development - [Project Type]
+For Automation Consulting:WhatsApp: +201006334062Subject: Automation Consultation
+Website:go.ahmedmokireldin.online
+Service Areas
+Remote services available worldwide
+Local in-person support in Mit El-Qurashi, Dakahlia
+Arabic and English communication
+Flexible working hours (including late-night availability)
+Data Compliance &amp; Ethics
+Data Usage Policy
+All databases sold for legitimate marketing and research purposes only:
+No spam or illegal activities
+Compliance with local marketing regulations
+Respect for data privacy laws
+Ethical use of personal information
+GDPR awareness for international clients
+Quality Assurance
+Database accuracy verification
+Regular data updates and cleaning
+Source credibility validation
+Duplicate removal
+Format standardization
+Summary Statistics
+Metric
+Value
+Years of Experience
+15+ years
+Programming Languages
+5+ languages
+Marketing Platforms Mastered
+10+ platforms
+Database Size Handled
+50GB+
+Countries Covered (Databases)
+195+ countries
+Service Categories
+7 main categories
+Software Products
+12+ products
+API Integrations
+20+ APIs
+
+Table 3: Professional metrics summary
+Document Metadata
+Document Type: Professional Profile &amp; Service DatabaseSubject: Ahmed Mokireldin - Complete Professional DocumentationVersion: 1.0Date Created: March 11, 2026Language: Arabic &amp; English (Mixed)Purpose: Comprehensive reference for CV, portfolio, service pages, and business developmentStatus: Living Document - Updated Regularly
+End of Profile Database
+This document serves as the complete reference for all professional activities, services, products, and expertise. It can be used for CV writing, service page content, client proposals, team onboarding, or any professional documentation needs.
+
