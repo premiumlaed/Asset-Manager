@@ -37,10 +37,11 @@ export function Footer() {
 
         <div className="grid grid-cols-1 md:grid-cols-4 gap-12 border-t border-white/10 pt-12">
           <div className="col-span-1 md:col-span-2">
-            <h3 className="text-xl font-bold text-primary mb-4">أحمد السيد محمد خيرالدين</h3>
-            <p className="text-muted-foreground max-w-sm">
-              Growth Marketing Automation Engineer AI<br/>
-              Building automated systems that drive real revenue and scalable growth.
+            <h3 className="text-xl font-bold text-primary mb-4">أحمد خيرالدين</h3>
+            <p className="text-muted-foreground max-w-sm leading-relaxed">
+              Growth Marketing Automation Engineer<br/>
+              أخصائي أتمتة تسويقية رقمية — WhatsApp · CRM · Data · n8n · Make.com<br/>
+              <a href="https://go.ahmedmokireldin.online" className="text-primary/70 hover:text-primary transition-colors text-sm mt-1 inline-block">go.ahmedmokireldin.online</a>
             </p>
           </div>
           
@@ -64,10 +65,12 @@ export function Footer() {
 
         <div className="mt-16 text-center text-muted-foreground text-sm flex flex-col items-center gap-2">
           <p>{t.footer.rights} {new Date().getFullYear()}</p>
-          <div className="flex gap-4">
-            <span>Cairo / UK</span>
+          <div className="flex flex-wrap justify-center gap-4">
+            <span>ميت القرشي - ميت غمر - الدقهلية، مصر</span>
             <span>•</span>
             <span dir="ltr">+20 100 633 4062</span>
+            <span>•</span>
+            <a href="mailto:ahmedmokireldin@gmail.com" className="hover:text-primary transition-colors">ahmedmokireldin@gmail.com</a>
           </div>
         </div>
       </div>

@@ -39,7 +39,11 @@ export default function Courses() {
 
   return (
     <>
-      <SEO title={`${t.nav.courses} | Ahmed El Sayed`} />
+      <SEO
+        title={`${t.nav.courses} | أحمد خيرالدين`}
+        description="كورسات تدريبية عملية في WhatsApp Business وWhatsApp Funnels وAI للتسويق والأتمتة. بخبرة 15+ عامًا في Growth Marketing Automation."
+        canonicalPath="/courses"
+      />
       
       <div className="pt-32 pb-24 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         
